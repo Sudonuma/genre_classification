@@ -1,0 +1,15 @@
+artifact_uri: file:///home/genre_classification/mlruns/0/d4f98b12ae7d42359974926dcda2b76a/artifacts
+end_time: 1629909487877
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: d4f98b12ae7d42359974926dcda2b76a
+run_uuid: d4f98b12ae7d42359974926dcda2b76a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1629909479912
+status: 3
+tags: []
+user_id: root

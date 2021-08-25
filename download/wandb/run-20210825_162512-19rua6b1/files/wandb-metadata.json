@@ -1,0 +1,31 @@
+{
+    "os": "Linux-5.10.0-1038-oem-x86_64-with-glibc2.28",
+    "python": "3.9.6",
+    "heartbeatAt": "2021-08-25T16:25:12.843196",
+    "startedAt": "2021-08-25T16:25:12.453180",
+    "docker": null,
+    "cpu_count": 8,
+    "cuda": null,
+    "args": [
+        "--file_url",
+        "https://github.com/udacity/nd0821-c2-build-model-workflow-exercises/blob/master/lesson-2-data-exploration-and-preparation/exercises/exercise_4/starter/genres_mod.parquet?raw=true",
+        "--artifact_name",
+        "raw_data.parquet",
+        "--artifact_type",
+        "raw_data",
+        "--artifact_description",
+        "Data as downloaded"
+    ],
+    "state": "running",
+    "program": "/home/genre_classification/download/download_data.py",
+    "codePath": "download/download_data.py",
+    "git": {
+        "remote": "https://github.com/Sudonuma/genre_classification.git",
+        "commit": "10b5dac56cc93d1505fa1be74a216a2abf0fef68"
+    },
+    "email": "tasnim.hd@gmail.com",
+    "root": "/home/genre_classification",
+    "host": "b7cd65026530",
+    "username": "root",
+    "executable": "/opt/conda/envs/mlflow-4b67c93d2a95df2e00cbf3c9f644d2e3dada00e0/bin/python"
+}

@@ -1,0 +1,27 @@
+{
+    "os": "Linux-5.10.0-1038-oem-x86_64-with-glibc2.10",
+    "python": "3.8.10",
+    "heartbeatAt": "2021-08-25T16:23:51.451962",
+    "startedAt": "2021-08-25T16:23:50.963821",
+    "docker": null,
+    "cpu_count": 8,
+    "cuda": null,
+    "args": [
+        "--model_export",
+        "model_export:latest",
+        "--test_data",
+        "data_test.csv:latest"
+    ],
+    "state": "running",
+    "program": "run.py",
+    "codePath": "evaluate/run.py",
+    "git": {
+        "remote": "https://github.com/Sudonuma/genre_classification.git",
+        "commit": "10b5dac56cc93d1505fa1be74a216a2abf0fef68"
+    },
+    "email": "tasnim.hd@gmail.com",
+    "root": "/home/genre_classification",
+    "host": "b7cd65026530",
+    "username": "root",
+    "executable": "/opt/conda/envs/mlflow-9ad98997f01f10ca95d41cc160bcad3e8dac16f6/bin/python"
+}
